@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/finding-restaurant/static/css/main.5755cb22.chunk.css",
+    "main.js": "/finding-restaurant/static/js/main.943d43eb.chunk.js",
+    "main.js.map": "/finding-restaurant/static/js/main.943d43eb.chunk.js.map",
+    "runtime-main.js": "/finding-restaurant/static/js/runtime-main.09aed838.js",
+    "runtime-main.js.map": "/finding-restaurant/static/js/runtime-main.09aed838.js.map",
+    "static/js/2.10ee5c36.chunk.js": "/finding-restaurant/static/js/2.10ee5c36.chunk.js",
+    "static/js/2.10ee5c36.chunk.js.map": "/finding-restaurant/static/js/2.10ee5c36.chunk.js.map",
+    "index.html": "/finding-restaurant/index.html",
+    "static/css/main.5755cb22.chunk.css.map": "/finding-restaurant/static/css/main.5755cb22.chunk.css.map",
+    "static/js/2.10ee5c36.chunk.js.LICENSE.txt": "/finding-restaurant/static/js/2.10ee5c36.chunk.js.LICENSE.txt",
+    "static/media/default-food-image.88bd18c9.png": "/finding-restaurant/static/media/default-food-image.88bd18c9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09aed838.js",
+    "static/js/2.10ee5c36.chunk.js",
+    "static/css/main.5755cb22.chunk.css",
+    "static/js/main.943d43eb.chunk.js"
+  ]
+}
